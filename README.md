@@ -8,7 +8,7 @@
 <br/><br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Tinder-Clone-Flutter?color=blue&label=Last%20Commit%3A&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Tinder-Clone-Flutter?label=Repo%20Size%3A&style=for-the-badge)
-|GoogleClass-Room Home| GoogleClass-Room Stream|
+|Tinder Home| Tinder page2|
 |------|-------|
 |<img src="./Img/tinderClone1.png" width="200">|<img src="./Img/tinderClone2.png" width="200">|
 
